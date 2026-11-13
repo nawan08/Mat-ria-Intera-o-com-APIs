@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nome": "Charmander",
+    "tipo": "Fogo"
+  },
+  {
+    "id": 2,
+    "nome": "Charmeleon",
+    "tipo": "Fogo"
+  },
+  {
+    "id": 3,
+    "nome": "Charizard",
+    "tipo": "Fogo, Voador"
+  },
+  {
+    "id": 4,
+    "nome": "Squirtle",
+    "tipo": "Água"
+  },
+  {
+    "id": 5,
+    "nome": "Wartortle",
+    "tipo": "Água"
+  },
+  {
+    "id": 6,
+    "nome": "Blastoise",
+    "tipo": "Água"
+  },
+  {
+    "id": 7,
+    "nome": "Bulbasaur",
+    "tipo": "Planta, Veneno"
+  },
+  {
+    "id": 8,
+    "nome": "Ivysaur",
+    "tipo": "Planta, Veneno"
+  },
+  {
+    "id": 9,
+    "nome": "Venusaur",
+    "tipo": "Planta, Veneno"
+  }
+]
